@@ -1,0 +1,61 @@
+.services-wrapper {
+    padding: 100px 20px;
+    background-color: #f9f9f9;
+    text-align: center; /* Align text to the left */
+}
+
+.service {
+    margin-bottom: 50px;
+}
+
+.service h3 {
+    font-size: 2rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.service p {
+    font-size: 1.2rem;
+    color: #333333;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+.fliprush-screenshots,
+.threed-printing-gallery,
+.data-analysis-charts {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.screenshot,
+.print-image,
+.chart {
+    flex: 1;
+    min-width: 200px;
+    max-width: 300px; /* Limit the width for consistency */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+}
+
+.chart {
+    flex: 1;
+    min-width: 300px;
+    max-width: 600px;
+}
+
+.service a {
+    color: #f19164;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.service a:hover {
+    text-decoration: underline;
+}

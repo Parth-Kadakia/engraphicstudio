@@ -1,0 +1,15 @@
+.main-wrapper {
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000; /* Background color as black */
+    overflow: hidden; /* Prevent any overflow */
+}
+
+.full-screen-logo {
+    max-height: 100%; /* Maximum height set to full viewport height */
+    max-width: 100%;  /* Maximum width set to full viewport width */
+    object-fit: contain; /* Ensure the image scales appropriately without distortion */
+}
