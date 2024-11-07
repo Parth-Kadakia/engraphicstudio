@@ -20,15 +20,6 @@ const AboutSection = () => {
                         <img src={TeamMember1} alt="John Doe" className="team-image" />
                         <div className="team-info">
                             <h4>Parth Kadakia</h4>
-                            <p>Founder & CEO</p>
-                        </div>
-                    </div>
-
-                    <div className="team-member">
-                        <img src={TeamMember2} alt="Jane Smith" className="team-image" />
-                        <div className="team-info">
-                            <h4>Elric Coderan</h4>
-                            <p>Lead Developer</p>
                         </div>
                     </div>
                 </div>
