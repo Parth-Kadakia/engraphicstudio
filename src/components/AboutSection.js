@@ -9,14 +9,32 @@ const AboutSection = () => {
             <div className="mission-statement">
                 <h3>My 2 cents..</h3>
                 <p>
-                    I am dedicated to providing exceptional software development, data analysis, and 3D printing solutions with a focus on transparency, quality craftsmanship, and swift execution. I strive to build lasting relationships by being open, honest, and committed to exceeding expectations in every project I undertake.
+                    I am dedicated to providing exceptional software development, data analysis, and project management
+                    solutions with a focus on:
                 </p>
+                <ul>
+                    <li>Transparency, quality craftsmanship, and swift execution</li>
+                    <li>Building lasting relationships through openness, honesty, and commitment</li>
+                </ul>
+                <p>
+                    Additionally, my skills and qualifications include:
+                </p>
+                <ul>
+                    <li>Certified Scrum Master, experienced in Agile methodologies</li>
+                    <li>Proficient in a variety of programming languages, including Python, PHP, Java, HTML, CSS,
+                        JavaScript, and AI technologies
+                    </li>
+                    <li>Strong leadership abilities with a focus on clear communication, dedication, and innovative
+                        solutions
+                    </li>
+                </ul>
+
             </div>
 
             <div className="team">
                 <div className="team-members">
                     <div className="team-member">
-                        <img src={TeamMember1} alt="John Doe" className="team-image" />
+                        <img src={TeamMember1} alt="John Doe" className="team-image"/>
                         <div className="team-info">
                             <h4>Parth Kadakia</h4>
                         </div>

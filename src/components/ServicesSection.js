@@ -39,19 +39,6 @@ const ServicesSection = () => {
                 </p>
                 <DataAnalysisCharts/>
             </div>
-            <div className="service">
-                <h3>3D Printing</h3>
-                <p>
-                    We offer cutting-edge 3D printing services that bring your ideas to life with precision and quality.
-                    Whether you need prototypes, small production runs, or custom designs, we've got you covered.
-                </p>
-                <div className="threed-printing-gallery">
-                    <img src={ThreeDPrint1} alt="3D Print Example 1" className="print-image"/>
-                    <img src={ThreeDPrint2} alt="3D Print Example 2" className="print-image"/>
-                    <img src={ThreeDPrint3} alt="3D Print Example 3" className="print-image"/>
-                    <img src={ThreeDPrint4} alt="3D Print Example 4" className="print-image"/>
-                </div>
-            </div>
         </div>
     );
 };
