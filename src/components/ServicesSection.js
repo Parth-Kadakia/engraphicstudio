@@ -18,15 +18,17 @@ const ServicesSection = () => {
         <div className="services-wrapper">
             <div className="service">
                 <h3>Software Development</h3>
+
+                <h4>Flip Rush</h4>
                 <p>
                     I specialize in creating innovative software solutions tailored to unique needs. One of my flagship
                     projects is
-                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">Flip Rush</a> – a
+                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">&nbsp;Flip Rush</a> – a
                     fast-paced,
                     memory-based puzzle game that’s already making waves. Built with Vercel, React, Google Analytics,
                     and Supabase
                     PostgreSQL, Flip Rush offers an engaging experience. Test your skills at
-                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">flip-rush.com</a>.
+                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">&nbsp;flip-rush.com</a>.
                 </p>
 
                 <div className="fliprush-screenshots">
@@ -35,17 +37,21 @@ const ServicesSection = () => {
                     <img src={FlipRushScreenshot3} alt="Flip Rush Screenshot 3" className="screenshot"/>
                 </div>
 
+                <hr/>
+                <br/>
+
+                <h4>The FamilyFlavors</h4>
 
                 <p>
                     I am passionate about creating platforms that bring people together around shared traditions and
                     stories. One of my recent projects is
-                    <a href="https://www.thefamilyflavors.com" target="_blank" rel="noopener noreferrer">Family
+                    <a href="https://www.thefamilyflavors.com" target="_blank" rel="noopener noreferrer">&nbsp;Family
                         Flavors</a> – a unique social platform where users can share their family recipes, keeping
                     culinary traditions alive. Built with React and PostgreSQL, Family Flavors offers a space for users
                     to upload, browse, and share cherished family dishes. Discover the rich variety of recipes and add
                     your own at
                     <a href="https://www.thefamilyflavors.com" target="_blank"
-                       rel="noopener noreferrer">thefamilyflavors.com</a>.
+                       rel="noopener noreferrer">&nbsp;thefamilyflavors.com</a>.
                 </p>
 
 
