@@ -4,13 +4,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 const ContactSection = () => {
     return (
         <div className="contact-wrapper">
-            <h2>Contact Us</h2>
-            <form className="contact-form">
-                <input type="text" placeholder="Your Name" className="input" />
-                <input type="email" placeholder="Your Email" className="input" />
-                <input type="text" placeholder="Your Message" className="input" />
-                <button type="submit" className="button">Send</button>
-            </form>
+            <h2>Reach out to me</h2>
             <p>Email: hello@engraphic.us</p>
             <p>Phone: +1-732-535-7529</p>
             <p>
