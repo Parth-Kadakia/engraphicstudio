@@ -15,12 +15,16 @@ const ServicesSection = () => {
             <div className="service">
                 <h3>Software Development</h3>
                 <p>
-                    At Engraphic Studio, we specialize in creating innovative software solutions tailored to your needs.
-                    One of our flagship projects is <a href="https://flip-rush.com" target="_blank"
-                                                       rel="noopener noreferrer">Flip Rush</a> – a fast-paced,
-                    memory-based puzzle game that’s already making waves. Test your skills at <a
-                    href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">flip-rush.com</a>.
+                    I specialize in creating innovative software solutions tailored to unique needs. One of my flagship
+                    projects is
+                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">Flip Rush</a> – a
+                    fast-paced,
+                    memory-based puzzle game that’s already making waves. Built with Vercel, React, Google Analytics,
+                    and Supabase
+                    PostgreSQL, Flip Rush offers an engaging experience. Test your skills at
+                    <a href="https://flip-rush.com" target="_blank" rel="noopener noreferrer">flip-rush.com</a>.
                 </p>
+
                 <div className="fliprush-screenshots">
                     <img src={FlipRushScreenshot1} alt="Flip Rush Screenshot 1" className="screenshot"/>
                     <img src={FlipRushScreenshot2} alt="Flip Rush Screenshot 2" className="screenshot"/>
