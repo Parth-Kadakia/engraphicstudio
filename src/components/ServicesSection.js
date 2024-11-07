@@ -19,7 +19,7 @@ const ServicesSection = () => {
             <div className="service">
                 <h3>Software Development</h3>
 
-                <h4>Flip Rush</h4>
+                <h3>Flip Rush</h3>
                 <p>
                     I specialize in creating innovative software solutions tailored to unique needs. One of my flagship
                     projects is
@@ -37,10 +37,10 @@ const ServicesSection = () => {
                     <img src={FlipRushScreenshot3} alt="Flip Rush Screenshot 3" className="screenshot"/>
                 </div>
 
-                <hr/>
+                <br/>
                 <br/>
 
-                <h4>The FamilyFlavors</h4>
+                <h3>The FamilyFlavors</h3>
 
                 <p>
                     I am passionate about creating platforms that bring people together around shared traditions and
