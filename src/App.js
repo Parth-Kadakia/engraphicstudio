@@ -9,11 +9,11 @@ import { Element, scroller } from 'react-scroll';
 function App() {
     return (
         <div>
-            <Element name="about">
-                <AboutSection />
-            </Element>
             <Element name="main">
                 <MainSection />
+            </Element>
+            <Element name="about">
+                <AboutSection />
             </Element>
             <Element name="services">
                 <ServicesSection />
