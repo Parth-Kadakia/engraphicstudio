@@ -64,10 +64,13 @@ const ServicesSection = () => {
                 </div>
             </div>
             <div className="service">
-            <h3>Data Analysis</h3>
+                <h3>Data Analysis</h3>
                 <p>
-                    Our data analysis services turn raw data into actionable insights. We use the latest tools and
-                    techniques to analyze your data, helping you make informed decisions that drive success.
+                    My data analysis skill set enables me to transform raw data into actionable insights. Using tools
+                    like SQL, Tableau, and Python, I can uncover trends, patterns, and answers within data to support
+                    informed decision-making. With the recent addition of AI, I bring deeper, predictive insights to the
+                    table. From advanced Python analytics to integrating Hugging Face inferences for natural language
+                    processing, I aim to deliver comprehensive, data-driven solutions tailored to your needs.
                 </p>
                 <DataAnalysisCharts/>
             </div>
