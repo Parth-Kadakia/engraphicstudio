@@ -56,11 +56,11 @@ const ServicesSection = () => {
 
 
                 <div className="fliprush-screenshots">
-                    <img src={t1} alt="Flip Rush Screenshot 1" className="screenshot"/>
-                    <img src={t2} alt="Flip Rush Screenshot 1" className="screenshot"/>
-                    <img src={t3} alt="Flip Rush Screenshot 1" className="screenshot"/>
-                    <img src={t4} alt="Flip Rush Screenshot 1" className="screenshot"/>
-                    <img src={t5} alt="Flip Rush Screenshot 1" className="screenshot"/>
+                    <img src={t1} alt="Flip Rush Screenshot 1" className="tff"/>
+                    <img src={t2} alt="Flip Rush Screenshot 1" className="tff"/>
+                    <img src={t3} alt="Flip Rush Screenshot 1" className="tff"/>
+                    <img src={t4} alt="Flip Rush Screenshot 1" className="tff"/>
+                    <img src={t5} alt="Flip Rush Screenshot 1" className="tff"/>
                 </div>
             </div>
             <div className="service">
