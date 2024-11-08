@@ -19,6 +19,10 @@ const ServicesSection = () => {
             <div className="service">
                 <h3>Software Development</h3>
 
+                <p>
+                    As a seasoned Technical Project Manager and Software Developer with over 9 years of experience, I bring a unique blend of technical expertise and project leadership skills to the table. I excel in guiding agile teams to deliver high-quality software that bridges development and business goals, specializing in Java, PHP, Python, and full-stack web development. My background in automating workflows, building real-time dashboards, and leading cross-functional teams has honed my ability to drive efficiency and support strategic decision-making through data-driven insights. Additionally, my certification as a Scrum Master underscores my commitment to agile methodologies and continuous improvement in software delivery.
+                </p>
+
                 <h3>Flip Rush</h3>
                 <p>
                     I specialize in creating innovative software solutions tailored to unique needs. One of my flagship
